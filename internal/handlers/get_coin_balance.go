@@ -3,9 +3,10 @@ package handlers
 import (
 	"encoding/json"
 	"net/http"
+
+	"github.com/gorilla/schema"
 	"github.com/kasiliwachiye/go-rest-api/api"
 	"github.com/kasiliwachiye/go-rest-api/internal/tools"
-	"github.com/gorilla/schema"
 	log "github.com/sirupsen/logrus"
 )
 
