@@ -1,4 +1,4 @@
-module github.com/kasiliwachiye/go-rest-api.git
+module github.com/kasiliwachiye/go-rest-api
 
 go 1.22.1
 
